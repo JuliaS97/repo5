@@ -1,1 +1,2 @@
 This is my fifth repository for the QA homework
+Added a note from the feature branch
